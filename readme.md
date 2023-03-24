@@ -7,3 +7,9 @@ python -m pip install -r requirements.txt
 python ./ask.py "list of modes in vim?"
 ```
 
+or 
+
+```
+source ./venv.sh
+```
+
